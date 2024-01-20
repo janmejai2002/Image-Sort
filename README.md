@@ -1,3 +1,6 @@
+# Image Sort
+![Example](https://github.com/janmejai2002/Image-Sort/blob/main/assets/download.jpg)
+
 ```mkdir sortedimg```
 
 Inside that create any number of directories like family, friends, etc ... It will show up in GUI
