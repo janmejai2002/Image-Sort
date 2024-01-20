@@ -1,5 +1,5 @@
 # Image Sort
-![Example](https://github.com/janmejai2002/Image-Sort/blob/main/assets/example.jpg)
+![Example](https://github.com/janmejai2002/Image-Sort/blob/main/assets/example.png)
 
 ```mkdir sortedimg```
 
